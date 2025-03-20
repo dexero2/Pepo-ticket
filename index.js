@@ -34,9 +34,9 @@ function saveData() {
     }
 }
 
-const TOKEN = process.env.TOKEN || 'MTMzOTY2OTE0MDU4Mjk1NzA1Ng.GvgxxK.bRwDjGKnbSqWDiQS934f3R6OEK9n5I8z-4ucw4'; // استخدم متغير البيئة للتوكن
-const CLIENT_ID = '1339669140582957056';
-const GUILD_ID = '1337810861783388202';
+const TOKEN = process.env.TOKEN || ''; // استخدم متغير البيئة للتوكن
+const CLIENT_ID = '';
+const GUILD_ID = '';
 
 // تخزين حالة الأزرار والإعدادات
 const settings = {
